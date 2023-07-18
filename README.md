@@ -33,8 +33,9 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
      - Set the x-axis as "PC1" and the y-axis as "PC2".
      - Color the graph points with the labels found using K-means.
      - Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
- 
-![alt_text](https://github.com/taniyatalukdar/CryptoClustering/blob/main/scatter_cluster.png)
+
+![alt_text](https://github.com/taniyatalukdar/CryptoClustering/blob/main/scatter_pca.png)
+
  
 ## Optimize Clusters with Principal Component Analysis
 - Using the original scaled DataFrame, perform a PCA and reduce the features to three principal components.
@@ -70,5 +71,6 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
       - Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 - Answer the following question:
       - What is the impact of using fewer features to cluster the data using K-Means?
-
-  ![alt_text](https://github.com/taniyatalukdar/CryptoClustering/blob/main/scatter_pca.png)
+  
+![alt_text](https://github.com/taniyatalukdar/CryptoClustering/blob/main/scatter_cluster.png)
+  
