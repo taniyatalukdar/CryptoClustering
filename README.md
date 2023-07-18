@@ -56,6 +56,8 @@ Use the elbow method on the PCA data to find the best value for k using the foll
       - What is the best value for k when using the PCA data?
       - Does it differ from the best k value found using the original data?
 
+![alt_text](https://github.com/taniyatalukdar/CryptoClustering/blob/main/elbow_pca.png)
+
 ## Cluster Cryptocurrencies with K-means Using the PCA Data
 Use the following steps to cluster the cryptocurrencies for the best value for k on the PCA data:
 - Initialize the K-means model with the best value for k.
@@ -68,3 +70,5 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
       - Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 - Answer the following question:
       - What is the impact of using fewer features to cluster the data using K-Means?
+
+  ![alt_text](https://github.com/taniyatalukdar/CryptoClustering/blob/main/scatter_pca.png)
