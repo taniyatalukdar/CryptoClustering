@@ -73,4 +73,11 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
       - What is the impact of using fewer features to cluster the data using K-Means?
   
 ![alt_text](https://github.com/taniyatalukdar/CryptoClustering/blob/main/scatter_cluster.png)
+
+
+## Composite elbow
+![alt_text](https://github.com/taniyatalukdar/CryptoClustering/blob/main/composite_elbow.png)
+
+## Composite Scatter
+![alt_test](https://github.com/taniyatalukdar/CryptoClustering/blob/main/composite_cluster.png)
   
