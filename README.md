@@ -21,6 +21,8 @@ Use the elbow method to find the best value for k using the following steps:
 - Plot a line chart with all the inertia values computed with the different values of k to visually identify the optimal value for k.
 - Answer the following question in your notebook: What is the best value for k?
 
+![FirstImage](https://github.com/taniyatalukdar/CryptoClustering/blob/main/elbow_origin.png)  
+
 ## Cluster Cryptocurrencies with K-means Using the Original Scaled Data
 Use the following steps to cluster the cryptocurrencies for the best value for k on the original scaled data:
 - Initialize the K-means model with the best value for k.
